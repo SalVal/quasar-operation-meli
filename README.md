@@ -95,17 +95,6 @@ Obtiene la posición de la nave y el mensaje si se tienen suficientes datos.
 
 La configuración de la aplicación se encuentra en el archivo `application.properties`:
 
-```properties
-# Configuración del servidor
-server.port=8080
-
-# Posiciones conocidas de los satélites (ejemplo)
-satellite.kenobi.position.x=-500
-satellite.kenobi.position.y=-200
-satellite.skywalker.position.x=100
-satellite.skywalker.position.y=-100
-satellite.sato.position.x=500
-satellite.sato.position.y=100
 ```
 
 ## Contribución
